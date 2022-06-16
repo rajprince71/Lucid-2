@@ -1,0 +1,295 @@
+@media (max-width:575px) {
+    .nav-item {
+        padding: 0;
+        margin-bottom: 5px;
+        display: inline-block;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        display: inline-block;
+    }
+
+    .phone,
+    .col_none {
+
+        display: none;
+    }
+
+    .lg_phone {
+        display: inherit;
+    }
+
+    .height {
+        min-height: 90vh;
+        padding-bottom: 50px;
+    }
+
+    body {
+        text-align: center;
+    }
+
+    .margin_b {
+        margin-bottom: 15px;
+    }
+
+    .btn-features {
+        padding: 10px 20px;
+        margin: 0;
+    }
+
+    .btn-download {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width:320px) {
+
+    .btn-features {
+        padding: 10px 15px;
+        margin: 0;
+    }
+
+    .btn-download {
+        margin-left: 15px;
+        margin: 25px 0;
+    }
+
+    .dwn_now {}
+
+    .v_fet {margin: 0;}
+
+    .center {text-align: center!important;}
+}
+
+
+
+
+
+
+
+
+
+/* @media (max-width:767px) {
+    .lg-phone {
+        display: inherit;
+    }
+
+    .phone,
+    .col-none {
+        display: none;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .nav-item {
+        padding: 0 8px;
+        display: inline-block;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .margin-b {
+        margin-bottom: 20px;
+    }
+
+    .super-easy span::before {
+        left: 5%;
+    }
+
+    .plans span::after {
+        right: 45%;
+    }
+
+    .pricing p {
+        font-size: 15px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .client {
+        margin-top: 60px;
+
+    }
+
+    .feature span::after {
+        right: 44%;
+    }
+
+    .download {
+        margin: 20px 0;
+    }
+
+    .contact-form {
+        top: 290px;
+    }
+
+    .client-des h6 {
+        font-size: 12px;
+    }
+
+    .client-des h5 {
+        font-size: 12px;
+    }
+
+    .pricing p {
+        font-size: 12px;
+    }
+
+    .what-you-see {
+        text-align: center;
+    }
+}
+
+@media (max-width:575px) {
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .nav-item {
+        padding: 0 8px;
+        display: inline-block;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+
+    }
+
+    .phone,.col-none {
+        display: none;
+    }
+
+    .lg-phone {
+        display: inherit;
+    }
+
+    .feature span::before {
+        left: 45%;
+    }
+
+    .margin-b {
+        margin-bottom: 20px;
+    }
+
+    .super-easy span::before {
+        right: 92%;
+    }
+
+    .plans span::after {
+        right: 45%;
+
+    }
+
+    .feature span::after {
+        right: 46%;
+    }
+
+    .pricing p {
+        margin-top: 30px;
+        font-weight: 300;
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .client-des h6 {
+        font-size: 16px;
+    }
+
+    .client-des h5 {
+        font-size: 15px;
+    }
+
+    .client {
+        display: flex;
+        margin-top: 40px;
+        justify-content: center;
+    }
+
+    .download {
+        text-align: center;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+
+    .what-you-see h1 {
+        text-align: center;
+    }
+
+    .contact span::before {
+        left: 47%;
+    }
+
+    .contact {
+        padding: 30px 0 330px 0;
+    }
+}
+
+@media (max-width:320px) {
+    .lg-phone img {
+        margin-top: 20px;
+    }
+
+    .feature span::after {
+        right: 42%;
+    }
+
+    .feature span::before {
+        left: 42%;
+    }
+
+    .feature span {
+        margin-bottom: 15%;
+    }
+
+    .super-easy span::before {
+        left: 10%;
+    }
+
+    .plans span::after {
+        right: 38%;
+    }
+
+    .client-des h5 {
+        font-size: 13px;
+    }
+
+    .client-des h6 {
+        font-size: 12px;
+    }
+
+    .download {}
+
+    .down-now {}
+
+    .v-feature {
+        margin: 10px;
+    }
+
+    .btn-download {
+        margin-left: 20px;
+    }
+
+    .single-pricing p {
+        font-size: 16px;
+    }
+
+    .contact span::after {
+        right: 40%;
+    }
+
+    .pricing p {
+        font-size: 16px;
+        font-family: 'Poppins', sans-serif;
+    }
+} */
