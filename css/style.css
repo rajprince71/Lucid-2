@@ -591,13 +591,14 @@ footer ul{
     list-style: none;
     display: flex;
     justify-content: center;
+    ;
 }
 footer ul li{
   
-margin: 0 20px 0 20px;
+
 }
 footer ul li a{
-    transition: .4s all ease-in-out;
+    padding: 0px 10px;
 }
 
 footer ul li i{
@@ -607,9 +608,10 @@ footer p{
     color: #444348;
     margin-top: 20px;
 }
-footer ul li a:hover  i{
-    color: #008ed6;
-}
+
+
+
+
 
 .toggler-icon{
     color: #fff;
